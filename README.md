@@ -1,95 +1,53 @@
 # 👋 Hi, I'm Nathan Bentley
 
-I'm a backend developer, product strategist, and AI SaaS builder focused on creating powerful, low-friction tools that generate real value and income. My specialties include:
-
-- 🧠 AI integrations (OpenRouter, OpenAI, LM Studio)
-- ⚡ FastAPI & Python backend architecture
-- 🧾 Stripe, SendGrid, and PDF generation
-- 🚀 Deployments via Railway, Fly.io, Replit
-- 🔁 “Set it and forget it” income stream automation
+I'm a backend developer, AI product builder, and SaaS strategist focused on building automated income tools and scalable GPT-integrated services. My work bridges the gap between AI, real-world monetization, and startup-grade execution.
 
 ---
 
-## 🔧 My Best Work
+## 🧠 My Stack
 
-### [Content365.xyz](https://content365.xyz)
-> AI-powered content pack generator (blog + captions + lead magnet + SEO + branded PDF)
-
-- GPT + fallback + smart hashtag logic
-- Stripe paywall with grouped PDF output
-- Custom branding + multi-platform UX
-- **Stack**: FastAPI · OpenRouter · ReportLab · Railway
-# 👋 Hi, I'm Nathan Bentley
-
-I'm a backend developer, product strategist, and AI SaaS builder focused on creating powerful, low-friction tools that generate real value and income. My specialties include:
-
-- 🧠 AI integrations (OpenRouter, OpenAI, LM Studio)
-- ⚡ FastAPI & Python backend architecture
-- 🧾 Stripe, SendGrid, and PDF generation
-- 🚀 Deployments via Railway, Fly.io, Replit
-- 🔁 “Set it and forget it” income stream automation
+- ⚙️ **Backend:** Python · FastAPI · Uvicorn · Docker
+- 🤖 **AI & LLMs:** OpenRouter · Mixtral · Local LLMs (LM Studio)
+- 💳 **APIs:** Stripe · SendGrid · WordPress REST · PDFKit · ReportLab
+- 🚀 **Deployment:** Railway · Replit · Fly.io · GitHub Actions
+- 🧠 **Other:** Prompt Engineering · SaaS UX · No-code + Full-code integration
 
 ---
 
-## 🔧 My Best Work
+## 🚀 Featured Projects
 
-### [Content365.xyz](https://content365.xyz)
-> AI-powered content pack generator (blog + captions + lead magnet + SEO + branded PDF)
+### [Content365](https://content365.xyz)
+> AI-powered content pack generator (blog post, social captions, lead magnet, SEO, and hashtags – in a branded PDF)
 
-- GPT + fallback + smart hashtag logic
-- Stripe paywall with grouped PDF output
-- Custom branding + multi-platform UX
-- **Stack**: FastAPI · OpenRouter · ReportLab · Railway
+- Multi-platform captions (Instagram, LinkedIn, TikTok, etc.)
+- Smart hashtag logic with tone and B2B/B2C toggle
+- Stripe paywall + branded PDF + fallback GPT logic
+- Built with FastAPI · OpenRouter · ReportLab · Railway
 
-### [AcePrep](https://github.com/NateDiesel/Ace-Prep-1.0)
-> Interview cheat sheet generator with resume/job-tailored questions
+### [AcePrep](https://github.com/NateDiesel/AcePrep2.0)
+> Interview cheat sheet generator using resume + job link
 
-- Upload resume and job link → get PDF interview prep
-- Suggests interviewee-to-interviewer questions
-- Smart fallback content and premium UI polish
-- **Stack**: FastAPI · OpenRouter · ReportLab
+- Upload resume, paste job link → get tailored questions
+- Suggests interviewee → interviewer questions by role (CEO, HR, Manager)
+- PDF formatting, fallback, and recruiter-facing polish
+- Powered by FastAPI · GPT · ReportLab
 
 ### [Auto Blogger API](https://github.com/NateDiesel/auto-blogger-api)
-> Auto-generates blog posts via API and posts to WordPress
+> GPT blog writer + WordPress poster – with tone, CTA, HTML output, and PDF preview
 
-- JSON input → GPT blog post → auto-publish
-- CLI + API mode for daily content creators
-- **Stack**: FastAPI · WordPress REST · OpenRouter
-
----
-
-## 📫 Contact & Resume
-
-- LinkedIn: [linkedin.com/in/nathanbentleydev](https://linkedin.com/in/nathanbentleydev)
-- Resume: [View PDF](https://your-resume-link.com) <!-- Replace with actual link -->
-- Email: contact@content365.xyz
+- Accepts JSON payload with topic, keywords, tone, CTA
+- Returns HTML-formatted blog or downloadable PDF
+- Includes retry logic, live form UI, and OpenAPI docs
+- Lightweight and recruiter-friendly
 
 ---
 
-> “Build once. Monetize forever.”
+## 📫 Contact Me
 
-### [AcePrep](https://github.com/NateDiesel/Ace-Prep-1.0)
-> Interview cheat sheet generator with resume/job-tailored questions
-
-- Upload resume and job link → get PDF interview prep
-- Suggests interviewee-to-interviewer questions
-- Smart fallback content and premium UI polish
-- **Stack**: FastAPI · OpenRouter · ReportLab
-
-### [Auto Blogger API](https://github.com/NateDiesel/auto-blogger-api)
-> Auto-generates blog posts via API and posts to WordPress
-
-- JSON input → GPT blog post → auto-publish
-- CLI + API mode for daily content creators
-- **Stack**: FastAPI · WordPress REST · OpenRouter
-
----
-
-## 📫 Contact & Resume
-
-- LinkedIn: [linkedin.com/in/nathanbentleydev](https://linkedin.com/in/nathanbentleydev)
-- Resume: [View PDF](https://your-resume-link.com) <!-- Replace with actual link -->
-- Email: contact@content365.xyz
+- 🌐 Website: [content365.xyz](https://content365.xyz)
+- 💼 LinkedIn: [linkedin.com/in/nathanbentleydev](https://linkedin.com/in/nathanbentleydev)
+- 📄 [View My Resume (PDF)](https://your-resume-link.com) <!-- Replace with actual resume URL -->
+- 📧 Email: contact@content365.xyz
 
 ---
 
